@@ -9,7 +9,7 @@ import {
     Image,
   } from "@chakra-ui/react";
   import { BiPlus } from "react-icons/bi";
-  
+  import LandingPage from "./Ban";
   import { bannerData } from "../data";
   import Apartment1Lg from "../images/apartments/a1lg.png";
   import Apartment6Lg from "../images/apartments/a6lg.png";
